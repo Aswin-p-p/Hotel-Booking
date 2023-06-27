@@ -1,0 +1,36 @@
+#moreinfo{
+    height: 600px;
+    width: 1000px;
+   
+    margin-top: -860px;
+}
+#imgsection{
+    margin-top: -45px;
+    margin-left: -600px;
+  
+
+}
+#moreimg{
+    width: 400px;
+}
+#details{
+    margin-left: 100px;
+}
+
+#moreview {
+    height: 550px;
+    width: 346px;
+    margin-top: -556px;
+    margin-left: auto;
+}
+
+
+#offer{
+  
+    color: green;
+    margin-left: 100px;
+}
+#main{
+    height: 100%;
+    width: 100%;
+}

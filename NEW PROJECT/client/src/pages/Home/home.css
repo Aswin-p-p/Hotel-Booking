@@ -1,0 +1,14 @@
+.d-block{
+    height: 100%;
+    width: 100%;
+    filter: blur(8px);
+    -webkit-filter: blur(2px);
+}
+.carousel-caption{
+    margin-left: -600px;
+}
+.login {
+    position: relative;
+    left: 300px;
+    top: 300px;
+}

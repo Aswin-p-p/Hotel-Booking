@@ -1,0 +1,40 @@
+.text-bg-light{
+  max-width: 100%;
+  height: 1000px;
+}
+#person{
+  height: 100px;
+  width: 140px;
+  border-radius: 300px;
+  margin-left: 270px;
+  margin-top: 20px;
+  margin-bottom: 200px;
+ 
+}
+
+
+#carouselExampleCaptions{
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  border-radius: 40px;
+  width: 650px;
+  height: 350px;
+  margin-left: 430px;
+ position: absolute;
+ top: 200px;
+  
+}
+h5{
+  color: black;
+
+}
+
+h3{
+  color: rgb(234, 242, 8);
+}
+#caption2{
+  
+  margin-left: 38px;
+  position: absolute;
+  top: 110px;
+}
+

@@ -1,0 +1,8 @@
+.container {
+    display: grid;
+   
+    text-align: center;
+    height: 100vh;
+    max-width: 2900px;
+    margin-top: -780px;
+}
